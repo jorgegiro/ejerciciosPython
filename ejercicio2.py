@@ -59,7 +59,7 @@ print(cuenta1)
 print(cuenta2)
 
 cuenta1.retirar(200)
-cuenta2.retirar(200)
+cuenta2.retirar(400)
 
 print(cuenta1)
 print(cuenta2)
