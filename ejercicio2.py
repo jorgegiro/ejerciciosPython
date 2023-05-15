@@ -58,8 +58,8 @@ cuenta2.ingresar(1000)
 print(cuenta1)
 print(cuenta2)
 
-cuenta1.retirar(200)
-cuenta2.retirar(400)
+cuenta1.retirar(400)
+cuenta2.retirar(200)
 
 print(cuenta1)
 print(cuenta2)
